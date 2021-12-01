@@ -1,0 +1,18 @@
+:root {
+	--dark-color-a: #483D8B;
+	--dark-color-b: #FF8C00;
+	--light-color: #BDB76B;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'cursive';
+	font-size: 16px;
+	background: var(--light-color);
+	margin: 20px;
+}
